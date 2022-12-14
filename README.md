@@ -13,8 +13,8 @@ You should be able to:
   - The email address is not formatted correctly
 
 ### Screenshot
+screenshot.png
 
-![](./screenshot.jpg)
 
 ### Links
 
